@@ -1,0 +1,6 @@
+Model,Accuracy (%),Execution Time (seconds),CPU Usage (%),Memory Usage (%)
+Logistic Regression,96.67,0.031508,38.5,78.4
+Random Forest,90.0,0.230824,28.3,78.4
+Decision Tree,93.33,0.002292,32.7,78.4
+K-Nearest Neighbors,100.0,0.007279,38.8,78.4
+Support Vector Machine,96.67,0.001567,42.1,78.4
